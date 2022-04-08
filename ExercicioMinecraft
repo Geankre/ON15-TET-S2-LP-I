@@ -1,0 +1,19 @@
+//Fase 12 Jogo Minecraft
+
+Ande duas vezes para frente
+
+Destrua o bloco
+Se tiver larva à frente
+Coloque bloco de paralelepípedos
+Do contrário, ande
+
+Vire à esquerda
+
+Ande duas vezes para frente
+
+Destrua o bloco
+Se tiver larva à frente
+Coloque bloco de paralelepípedos
+Do contrário, ande
+vire a direita
+//Repita as 5 ações anteriores mais uma vez para concluir a fase
